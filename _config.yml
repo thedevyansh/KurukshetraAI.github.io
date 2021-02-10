@@ -2,7 +2,7 @@ remote_theme: daattali/beautiful-jekyll
 
 title: Kurukshetra AI Research
 
-author: AttaliTech Ltd
+author: KAIR
 
 navbar-links:
   Services: "/#services"
@@ -23,8 +23,8 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
+  email: "kurukshetra.ai.research@gmail.com"
+  github: KurukshetraAI
   twitter: daattali
   calendly: "attalitech/meeting"
   youtube: "c/daattali?sub_confirmation=1"
