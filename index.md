@@ -17,6 +17,7 @@ ext-js:
 
 # KAIR {#title}
 
+## Exploring The World Humanly {#subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
