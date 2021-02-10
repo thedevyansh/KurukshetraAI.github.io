@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "KAIR | A group of enthusiasts who want to create an impact in the society through the fascinating world of AI."
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,11 +15,10 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# KAIR {#title}
 
-## R-Shiny Consulting {#subtitle}
+## A group of enthusiasts who want to create an impact in the society through the fascinating world of AI. {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
