@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# KAIR {#title}
+#        KAIR {#title}
 
 ## Exploring The World Humanly {#subtitle}
 
