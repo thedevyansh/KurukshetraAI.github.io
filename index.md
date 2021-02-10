@@ -17,8 +17,6 @@ ext-js:
 
 # KAIR {#title}
 
-## A group of enthusiasts who want to create an impact in the society through the fascinating world of AI. {#subtitle}
-
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
