@@ -35,11 +35,11 @@ ext-js:
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">What We Offer</div>
+    <div class="section-title">What We Do</div>
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <div class="service-text">Collaborating and Contributing on projects of any complexity</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
