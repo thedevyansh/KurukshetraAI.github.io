@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "KAIR | A group of enthusiasts who want to create an impact in the society through the fascinating world of AI."
+title: "KAIR"
 css:
   - /assets/css/index.css
 ext-css:
