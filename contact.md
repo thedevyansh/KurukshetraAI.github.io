@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Contact Us
-share-title: AttaliTech | Contact Us
+share-title: KAIR | Contact Us
 ---
 
-For any R/Shiny consulting inquiries, please email [info@attalitech.com](mailto:info@attalitech.com?subject=Shiny consulting inquiry)
+For any inquiries, please email [kurukshetra.ai.research@gmail.com](mailto:kurukshetra.ai.research@gmail.com?subject=KAIR inquiry)
 
 Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
 
